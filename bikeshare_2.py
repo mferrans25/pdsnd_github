@@ -221,6 +221,7 @@ def view_dataframe(df):
             else:
                 break
 
+'''The main program function'''
 def main():
     while True:
         city, month, day = get_filters()
