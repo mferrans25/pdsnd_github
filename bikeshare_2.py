@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 import tabulate as tb
 
 CITY_DATA = { 'chicago': 'chicago.csv',
